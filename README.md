@@ -9,7 +9,7 @@ Palpit8 is a clone of Twitch.tv that analyzes chatroom data of gamer streams thr
 **The mood visualization is currently not working on Heroku. Project currently being migrated to AWS to fix this problem by implementing S3.**
 
 This project was created by a team of 5 student over a period of two weeks. Major contributions were as follows:
-@JF-Lalonde
+[JF Lalonde](https://github.com/JF-Lalonde)
 
 ## Environment Setup:
 
