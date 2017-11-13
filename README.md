@@ -6,6 +6,10 @@ About:
 
 Palpit8 is a clone of Twitch.tv that analyzes chatroom data of gamer streams through the Watson Tone Analyzer and returns real-time visualization of the mood of a chatroom.
 
+**The mood visualization is currently not working on Heroku. Project currently being migrated to AWS to fix this problem by implementing S3.**
+
+This project was created by a team of 5 student over a period of two weeks. Major contributions were as follows:
+@JF-Lalonde
 
 ## Environment Setup:
 
