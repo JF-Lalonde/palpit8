@@ -45,3 +45,5 @@ This project was created by a team of 5 student over a period of two weeks. Majo
 ### Testing Suite
 
 * In order to run testing, simply type `rspec` in the terminal
+
+![screen shot 2017-11-13 at 7 50 41 pm](https://user-images.githubusercontent.com/26772297/32760609-4aa234bc-c8ac-11e7-93e1-193611931503.png)
